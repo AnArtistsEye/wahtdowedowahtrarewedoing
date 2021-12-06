@@ -1,0 +1,19 @@
+//Here lies the story. This is the heart of the game
+public class Story
+{
+  private static String[] plot = 
+  ""
+  ""
+  ""
+  ""
+  ""
+  ""
+  ""
+  ""
+  ""
+  ""
+  ""
+  ""
+  ""
+  "";
+}
